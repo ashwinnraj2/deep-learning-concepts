@@ -1,2 +1,2 @@
 # deep-learning-concepts
-This repo houses the basic implimentations of Deep Learning concepts that one could use to understand working of nueral network written in python.
+This repo houses the basic implementations of Deep Learning concept that one could use to understand working of neural network written in python. 
